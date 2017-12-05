@@ -10,8 +10,6 @@ namespace Day03
         {
             Console.WriteLine("Advent of Code 2017 - Day 3\n\nPart 1\n");
 
-            var input = 312051;
-
             CalcPart1(1);
             CalcPart1(12);
             CalcPart1(23);
